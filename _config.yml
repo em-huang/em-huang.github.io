@@ -1,0 +1,19 @@
+title:            Emily Huang
+description:      Emily's Personal Website
+logo:
+url:
+
+owner:
+  name:           Emily Huang
+  email:          emhuang@berkeley.edu
+  description:
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:
+  facebook:
+  github:
+  instagram:
+
+# gems:
+#   - jekyll-seo-tag
+
+github:           [metadata]
